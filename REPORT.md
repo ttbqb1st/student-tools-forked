@@ -1,6 +1,6 @@
 # GitHub Open Source Lab Report
 
-> Thay nội dung trong dấu `<...>` bằng thông tin và đường dẫn thật sau khi hoàn
+> Thay nội dung trong dấu `<Toàn quá đẹp trai >` bằng thông tin và đường dẫn thật sau khi hoàn
 > thành thao tác GitHub.
 
 ## 1. Tôi đã đóng vai trò gì?
@@ -56,3 +56,5 @@ khi push.
 
 Tôi sẽ thêm CI bắt buộc chạy test cho mọi PR, Issue/PR template, bảo vệ branch
 `main`, yêu cầu ít nhất một approval, tự động lint và dùng semantic versioning.
+#11
+test nhé nhé toànn
